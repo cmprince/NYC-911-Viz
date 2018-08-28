@@ -167,9 +167,9 @@ Many, but two immediate questions that _I_ have are:
 
 ## Thank you!
 
-This presentation can be found at ______
+This presentation can be found at https://cmprince.github.io/NYC-911-Viz/
 
-The demo is at ______
+The demo is at [yet to be published]
 
 - -
 
