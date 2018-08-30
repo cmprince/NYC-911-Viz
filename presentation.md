@@ -22,7 +22,7 @@
 <!-- .element: class="fragment" -->US national standards for response times to fire and medical emergencies are regulated by NFPA Standard 1710: 
 <small><a href="https://bit.ly/2P3GP6u">"Standard for the Organization and Deployment of Fire Suppression Operations, Emergency Medical Operations, and Special Operations to the Public by Career Fire Departments"</a></small>
 
-<!-- .element: class="fragment" -->How municipalities report (_or do not report_) their performance against these standards vary.
+<!-- .element: class="fragment" -->How municipalities report (_or do not report_) their performance against these standards varies.
 
 
 - -
@@ -66,7 +66,7 @@
 <span class="fragment" data-fragment-index='1'>Also known as "The Ariel Russo Emergency 9-1-1 Response Time Reporting Act" of 2013.
 </span>
 <span class="fragment" data-fragment-index='2'><img src="images/russo.jpg" height=300>
-<small>"'Reckless' Teen Who Killed 4-Year-Old Girl Gets Up to 9 Years in Prison", dnainfo.com, 19 Feb 2016. https://bit.ly/1Q6lVAB</small>
+<small>"'Reckless' Teen Who Killed 4-Year-Old Girl Gets Up to 9 Years in Prison," dnainfo.com, 19 Feb 2016. https://bit.ly/1Q6lVAB</small>
 </span>
 
 - -
@@ -112,7 +112,7 @@ Requires reporting of response times to 9-1-1 calls across nine categories, with
 
 #### What questions go unanswered?
 
-Many, but two immediate questions that _I_ have are:
+Many, but two immediate questions that I have are:
 
 * What is the distribution of response times (not just averages)?
 * How do response times vary across the city?
@@ -135,9 +135,11 @@ Many, but two immediate questions that _I_ have are:
 
 #### Implementation
 
-* <!-- .element: class="fragment" -->All of these technologies are Open Source and cost free.
-* <!-- .element: class="fragment" -->Pure JavaScript + React implementation works in nearly all recent browsers and does not require any additional software for users to install.
-* <!-- .element: class="fragment" -->Notebook format permits intuitive auditing of methods and algorithms.
+* <!-- .element: class="fragment" data-fragment-index="0"-->All of these technologies are Open Source and cost free.
+* <!-- .element: class="fragment" data-fragment-index="1"-->JavaScript + React implementation works in nearly all recent browsers\* and does not require any additional software for users to install.
+* <!-- .element: class="fragment" data-fragment-index="2"-->Notebook format permits intuitive auditing of methods and algorithms.
+
+<!-- .element: class="fragment" data-fragment-index="1"--> <small>\* i.e., not IE</small>
 
 - -
 
@@ -147,7 +149,7 @@ Many, but two immediate questions that _I_ have are:
     * [EMS Data](https://data.cityofnewyork.us/Public-Safety/EMS-Incident-Dispatch-Data/76xm-jjuj), with 7.02 million rows
     * [Fire Data](https://data.cityofnewyork.us/Public-Safety/Fire-Incident-Dispatch-Data/8m42-w767i), with 2.75 million rows
 * <!-- .element: class="fragment" --> The EMS data itself is **_1.7 GB!_** 
-    * Far too much data to transfer to every user; this is almost "big data".
+    * This is far too much data to transfer to every user; this is almost "big data".
     * Don't bring data to the computer, bring computation to the data. <small>(or use the computation resources already at the data)</small>
 
 ---
@@ -167,9 +169,9 @@ Many, but two immediate questions that _I_ have are:
 
 ## Thank you!
 
-This presentation can be found at https://cmprince.github.io/NYC-911-Viz/
+This presentation can be found at https://cmprince.github.io/NYC-911-Viz/.
 
-The demo is at [yet to be published]
+The demo is not yet public, but can be accessed at <a href="https://beta.observablehq.com/d/db264f30fb264c08">this private link</a>.
 
 - -
 
