@@ -160,10 +160,10 @@ Many, but two immediate questions that I have are:
 
 ### Next steps and opportunities to improve
 
-* Improve EMS segment reporting
+* Verify data against existing reporting
 * Add combined Fire and EMS medical emergency reporting
+* Add Advanced Life Support statistics
 * Add time series for trend analysis
-
 
 ---
 
