@@ -1,6 +1,6 @@
 ## FDNY + EMD response time visualization 
 
-30 August 2018
+12 September 2018
 
 <small>Christopher Prince</small>
 
@@ -161,7 +161,7 @@ Many, but two immediate questions that I have are:
 ### Next steps and opportunities to improve
 
 * Verify data against existing reporting
-* Add combined Fire and EMS medical emergency reporting
+* Compare to other geographic boundaries
 * Add Advanced Life Support statistics
 * Add time series for trend analysis
 
